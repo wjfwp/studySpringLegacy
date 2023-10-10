@@ -4,7 +4,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<!-- SpringTest test = new SpringTest -->
-	<bean id="test" class="ex01.SpringTest"/>
+	<bean id="test" class="ex01.SpringTest" scope="prototype"/>
 	
 	<!-- id=이름, class=경로 -->
 	<bean id="chef" class="ex02.Chef"/>

@@ -17,16 +17,20 @@ public class MainClass {
 		
 		GenericXmlApplicationContext ctx = 
 				new GenericXmlApplicationContext("application-context.xml");
-//		//1st
-//		SpringTest st = (SpringTest)ctx.getBean("test");
-//		st.hello();
-//		
-//		//2nd
-//		SpringTest st2 = ctx.getBean(SpringTest.class);
-//		st2.hello();
-//		
-//		System.out.println(st == st2);
+		//1st
+		SpringTest st = (SpringTest)ctx.getBean("test");
+		st.hello();
 		
+		//2nd
+		SpringTest st2 = ctx.getBean(SpringTest.class);
+		st2.hello();
+		
+		SpringTest st3 = ctx.getBean(SpringTest.class);
+		
+		System.out.println(st == st2);
+		System.out.println(st3 == st2);
+		
+		/*
 		Hotel hotel = ctx.getBean(Hotel.class);
 		hotel.getChef().cooking();
 		
@@ -41,7 +45,7 @@ public class MainClass {
 		
 		//IOC컨테이너 안에 빈의 이름반환
 		System.out.println( Arrays.toString( ctx.getBeanDefinitionNames() ) );
-		
+		*/
 		
 		
 	}
