@@ -14,5 +14,12 @@
 
 	<bean class="ex05.Printer"/>
 	
+	<bean id="air" class="ex06.Airplane"/>
+	<bean id="car" class="ex06.Car"/>
+	
+	<bean id="bat1" class="ex06.Battery1"/>
+	<bean id="bat2" class="ex06.Battery2"/>
+	
+	
 
 </beans>
