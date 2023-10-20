@@ -21,8 +21,19 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.simple.controller" />
+	<!-- controller패키지를 읽어서 @Controller 어노테이션을 빈으로 생성 -->
+	<context:component-scan base-package="com.simple.**"/>
 	
-	
-	
+	<!-- <context:component-scan base-package="com.simple.*" >
+		<context:exclude-filter type="annotation" expression="경로"/> //이 경로에 있는 패키지는 제외하고 읽는다.
+		<context:include-filter type="annotation" expression="경로"/> //이 경로에 있는 패키지는 포함헤서 읽는다.
+	</context:component-scan>
+	 -->
+	 
+	 
+	 
+	<!-- 서비스영역 bean으로 등록 -->
+	<!-- 
+	<beans:bean id="service" class="com.simple.service.ScoreServiceImpl"/>
+	 -->
 </beans:beans>

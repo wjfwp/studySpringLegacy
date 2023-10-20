@@ -2,6 +2,7 @@
 <aop-reference-model>
 <aop-project name="spring"/>
 <aop-project name="SpringDI"/>
+<aop-project name="SpringBasic2"/>
 <aop-project name="SpringMake"/>
 <aop-project name="SpringBasic"/>
 </aop-reference-model>
