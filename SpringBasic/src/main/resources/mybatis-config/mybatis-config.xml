@@ -5,5 +5,7 @@
   
   <!-- 마이바티스 관련 부가설정 등을 할 수 있다. -->
   <configuration>
-  
+  	<typeAliases>
+  		<typeAlias type="com.simple.command.ScoreVO" alias="ScoreVO"/>
+  	</typeAliases>
   </configuration>

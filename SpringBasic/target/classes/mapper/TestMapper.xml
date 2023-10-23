@@ -20,4 +20,70 @@
   		insert into score (name)
   		values(#{name})
   	</insert>
+  	
+  	<!-- vo가 매개변수인 경우에는 getter명을 따라간다. -->
+  	<insert id="insertTwo">
+  		insert into score(name, kor, eng)
+  		values(#{name}, #{kor}, #{eng})
+  	</insert>
+  	
+  	<insert id="insertThree">
+		insert into score(name, kor, eng)
+  		values(#{name}, #{kor}, #{eng})
+  	</insert>
+  	
+  	<insert id="insertFour">
+  		insert into score(name, kor, eng)
+  		values(#{name}, #{kor}, #{eng})
+  	</insert>
+  	
+  	<!-- 업데이트문 -->
+  	<update id="updateOwn">
+  		update score set name = #{name}, kor = #{kor}, eng = #{eng}
+  		where num = #{num}
+  	</update>
+  	
+  	
+  	<!-- select문은 resultType이 필수 -->
+  	<!-- 엘리어스에 등록이 되어있다면 단축명을 사용할 수 있다. -->
+  	<select id="selectOne" resultType="ScoreVO">
+  		select * from score where num = #{num}
+  	</select>
+  	
+  	<select id="selectTwo" resultType="map">
+  		select * from score where num = #{num}
+  	</select>
+  	
+  	<select id="selectThree" resultType="map">
+  		select * from score
+  	</select>
+  	
+  	<!-- M:1 조인 -->
+  	<select id="joinOne" resultType="ScoreVO">
+		select * from score s 
+		left join member m
+		on s.name = m.id
+  	</select>
+  	
+  	<!-- 1:M 조인 -->
+  	<!-- resultMap은 1:M 조인 처리 -->
+  	<select id="joinTwo" resultMap="xxx">
+  		select * from member m 
+  		left join score s 
+  		on m.id = s.name where id =#{name};
+  	</select>
+  	<!-- type=ORM객체 id=명칭 -->
+  	<resultMap type="com.simple.command.MemberVO" id="xxx">
+  		<result column="id" property="id"/>
+  		<result column="addr" property="addr"/>
+  		<collection property="list" resultMap="yyy"/>
+  	</resultMap>
+  	
+  	<resultMap type="com.simple.command.ScoreVO" id="yyy">
+  		<result column="num" property="num"/>
+  		<result column="name" property="name"/>
+  		<result column="kor" property="kor"/>
+  		<result column="eng" property="eng"/>
+  	</resultMap>
+  	
   </mapper>

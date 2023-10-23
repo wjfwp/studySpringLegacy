@@ -5,4 +5,5 @@
 <aop-project name="SpringBasic2"/>
 <aop-project name="SpringMake"/>
 <aop-project name="SpringBasic"/>
+<aop-project name="SpringMyweb"/>
 </aop-reference-model>

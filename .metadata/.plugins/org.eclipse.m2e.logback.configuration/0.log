@@ -3477,3 +3477,1062 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2023-10-22 23:04:59,526 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2023-10-22 23:04:59,528 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-10-22 23:04:59,530 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 16:45:37,251 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-10-23 16:46:47,936 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 16:46:49,046 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 16:46:49,052 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 16:46:49,103 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 16:46:49,103 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 16:47:39,849 [Worker-13: Launching JDBCMybatis] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 16:47:39,849 [Worker-13: Launching JDBCMybatis] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 16:47:39,849 [Worker-13: Launching JDBCMybatis] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 16:47:39,849 [Worker-13: Launching JDBCMybatis] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:02:44,638 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:02:44,641 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:02:44,645 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:02:44,646 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:02:46,993 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:02:46,994 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:02:46,995 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:02:46,996 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:04:17,581 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:04:17,582 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:04:17,583 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:04:17,584 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:05:04,685 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:05:04,686 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:05:04,689 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:05:04,691 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:16:33,202 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:16:33,205 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:16:33,208 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:16:33,208 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:16:34,627 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:16:34,628 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:16:34,630 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:16:34,631 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:17:49,382 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:17:49,383 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:17:49,384 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:17:49,386 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:19:04,707 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:19:04,708 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:19:04,709 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:19:04,711 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:19:37,216 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:19:37,217 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:19:37,219 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:19:37,221 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:20:02,214 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:20:02,215 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:20:02,216 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:20:02,217 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:20:52,025 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:20:52,026 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:20:52,027 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:20:52,029 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:21:11,081 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:11,082 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:21:11,085 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:11,086 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:21:32,926 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:32,927 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:21:32,928 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:32,929 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:21:40,216 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:40,217 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:21:40,221 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:21:40,222 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:24:41,371 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:24:41,372 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:24:41,373 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:24:41,374 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:25:18,556 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:25:18,557 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:25:18,560 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:25:18,560 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:25:49,011 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:25:49,012 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:25:49,014 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:25:49,015 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:27:04,540 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:27:04,542 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:27:04,545 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:27:04,547 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:28:24,161 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:28:24,162 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:28:24,163 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:28:24,165 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:29:50,767 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:29:50,768 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:29:50,769 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:29:50,770 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:31:17,548 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:31:17,549 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:31:17,550 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:31:17,551 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:32:00,033 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:32:00,035 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:32:00,037 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:32:00,038 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:33:08,494 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:33:08,494 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:33:08,499 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:33:08,499 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:33:52,269 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:33:52,269 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:33:52,269 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:33:52,269 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:36:22,410 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:36:22,410 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:36:22,410 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:36:22,410 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:36:59,664 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:36:59,664 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:36:59,664 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:36:59,669 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:37:16,190 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:37:16,190 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:37:16,190 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:37:16,190 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:37:52,189 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:37:52,189 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:37:52,197 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:37:52,197 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:38:43,001 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:38:43,003 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:38:43,005 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:38:43,005 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:39:15,874 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:39:15,874 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:39:15,883 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:39:15,883 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:39:37,588 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:39:37,588 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:39:37,588 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:39:37,588 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:42:04,320 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:42:04,320 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:42:04,320 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:42:04,320 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:42:50,092 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:42:50,092 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:42:50,092 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:42:50,092 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:47:07,796 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:47:07,796 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:47:07,796 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:47:07,796 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:47:11,355 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:47:11,356 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:47:11,357 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:47:11,358 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 17:48:26,496 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:48:26,497 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 17:48:26,497 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 17:48:26,497 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 19:49:21,175 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:21,177 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 19:49:21,178 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:21,179 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:49:34,792 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:34,794 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:49:34,795 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:34,796 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 19:49:40,546 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:40,548 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:49:40,549 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:49:40,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 19:51:15,279 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:51:15,281 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 19:51:15,283 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:51:15,284 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:52:17,495 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:52:17,497 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:52:17,498 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:52:17,498 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 19:52:45,081 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:52:45,083 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 19:52:45,084 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:52:45,084 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:56:12,694 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:56:12,696 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 19:56:12,697 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:56:12,697 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:58:34,295 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:58:34,297 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 19:58:34,299 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:58:34,299 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 19:59:11,479 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:59:11,481 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 19:59:11,482 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 19:59:11,483 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:00:10,584 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:00:10,585 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:00:10,587 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:00:10,588 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:08:30,007 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:08:30,008 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:08:30,010 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:08:30,011 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:10:13,658 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:10:13,660 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:10:13,662 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:10:13,663 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:10:45,704 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:10:45,706 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:10:45,709 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:10:45,709 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:11:50,091 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:11:50,092 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:11:50,094 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:11:50,094 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:12:19,414 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:12:19,416 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 20:12:19,417 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:12:19,419 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:19:08,719 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:19:08,719 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:19:08,719 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:19:08,719 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:20:42,427 [Worker-52: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 20:20:42,954 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:20:42,956 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:20:42,959 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:20:42,959 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:20:43,720 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:20:43,722 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:20:43,724 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:20:43,726 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:21:33,496 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:33,497 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:21:33,498 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:33,499 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:21:37,707 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:37,708 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:21:37,708 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:37,709 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:21:42,755 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:42,756 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:21:42,757 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:21:42,759 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:24:49,896 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 20:24:49,930 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:49,969 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:49,987 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:50,015 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:50,016 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:24:50,016 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:50,017 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:24:50,019 [Worker-63: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 20:24:50,020 [Worker-63: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 20:24:50,023 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:51,219 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:51,234 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:51,235 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:24:51,238 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:51,239 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:24:57,563 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-23 20:24:57,801 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 20:24:57,843 [Worker-64: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:57,875 [Worker-64: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:57,907 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/main/java
+2023-10-23 20:24:57,909 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/main/resources
+2023-10-23 20:24:57,910 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/test/java
+2023-10-23 20:24:57,910 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/test/resources
+2023-10-23 20:24:58,524 [Worker-64: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMyweb
+2023-10-23 20:24:58,534 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-10-23 20:24:59,149 [Worker-64: Building Project SpringMyweb] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:24:59,156 [Worker-64: Building Project SpringMyweb] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:59,157 [Worker-64: Building Project SpringMyweb] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:24:59,159 [Worker-64: Building Project SpringMyweb] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:24:59,159 [Worker-64: Building Project SpringMyweb] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:24:59,162 [Worker-64: Building Project SpringMyweb] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 20:24:59,162 [Worker-64: Building Project SpringMyweb] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 20:24:59,164 [Worker-64: Building Project SpringMyweb] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:25:37,920 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:25:37,921 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:25:37,922 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:25:37,927 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:25:59,761 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:25:59,763 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:25:59,763 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:25:59,764 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:26:44,148 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:26:44,149 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:26:44,150 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:26:44,152 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:27:32,833 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:27:32,834 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:27:32,835 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:27:32,836 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:27:42,118 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:27:42,119 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:27:42,120 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:27:42,122 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:28:02,629 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:28:02,630 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:28:02,631 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:28:02,632 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:28:22,264 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:28:22,265 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:28:22,267 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:28:22,268 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:29:14,119 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:29:14,121 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-10-23 20:29:14,128 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:29:14,129 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:29:39,111 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:29:39,112 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:29:39,114 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:29:39,114 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:31:19,770 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:31:19,772 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 20:31:19,774 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:31:19,775 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:35:15,490 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-23 20:35:15,641 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 20:35:15,671 [Worker-67: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:35:15,692 [Worker-67: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:35:15,753 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/main/java
+2023-10-23 20:35:15,753 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/main/resources
+2023-10-23 20:35:15,753 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/test/java
+2023-10-23 20:35:15,753 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/test/resources
+2023-10-23 20:35:15,914 [Worker-67: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMyweb
+2023-10-23 20:35:15,919 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-10-23 20:35:16,802 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 20:35:16,811 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:35:16,811 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 20:35:16,834 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:35:16,838 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 20:35:16,841 [Worker-73: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 20:35:16,841 [Worker-73: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 20:35:16,844 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:36:32,922 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:36:32,922 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:36:32,922 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:36:32,922 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:37:19,652 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:37:19,652 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 20:37:19,652 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:37:19,652 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:37:45,094 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:37:45,096 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 20:37:45,097 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 20:37:45,097 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:00:30,446 [Worker-81: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 21:00:30,661 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30.pom
+2023-10-23 21:00:30,691 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30.pom
+2023-10-23 21:00:30,692 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:30,700 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar
+2023-10-23 21:00:30,827 [Worker-81: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar
+2023-10-23 21:00:30,859 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:30,874 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:30,917 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:30,922 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:00:30,922 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:30,922 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:00:30,922 [Worker-81: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 21:00:30,922 [Worker-81: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 21:00:30,929 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:31,937 [Worker-85: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:31,984 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30-sources.jar
+2023-10-23 21:00:32,080 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.30/lombok-1.18.30-sources.jar
+2023-10-23 21:00:32,089 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.30
+2023-10-23 21:00:32,431 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:32,431 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:00:32,443 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:32,443 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:00:35,792 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-23 21:00:35,929 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 21:00:35,959 [Worker-82: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:35,986 [Worker-82: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:36,032 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/main/java
+2023-10-23 21:00:36,032 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/main/resources
+2023-10-23 21:00:36,037 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/test/java
+2023-10-23 21:00:36,037 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/test/resources
+2023-10-23 21:00:36,179 [Worker-82: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMyweb
+2023-10-23 21:00:36,192 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-10-23 21:00:37,098 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:00:37,108 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:37,113 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:00:37,118 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:00:37,121 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:00:37,125 [Worker-86: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 21:00:37,125 [Worker-86: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 21:00:37,129 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:07,921 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-10-23 21:08:10,013 [Worker-4: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:08:11,473 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 21:08:11,900 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:11,931 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2023-10-23 21:08:11,944 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:11,949 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:08:12,703 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:12,703 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:08:12,709 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:12,711 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:08:12,989 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:12,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Desktop\course\spring\workspace\SpringMake\src\main\resources
+2023-10-23 21:08:12,990 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:12,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\Desktop\course\spring\workspace\SpringMake\src\test\resources
+2023-10-23 21:08:19,270 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:19,270 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:08:19,270 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:08:19,270 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 21:09:15,736 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:09:15,744 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:09:15,745 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:09:15,746 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:09:27,449 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:09:27,452 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:09:27,454 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:09:27,455 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:11:57,718 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:11:57,721 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:11:57,722 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:11:57,723 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:12:44,173 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:12:44,175 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:12:44,178 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:12:44,179 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:15:07,081 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:15:07,084 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:15:07,085 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:15:07,088 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:39:38,428 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:39:38,430 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:39:38,431 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:39:38,432 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:39:52,706 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:39:52,707 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:39:52,709 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:39:52,710 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:41:40,310 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:41:40,311 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:41:40,312 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:41:40,313 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:42:13,839 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:42:13,841 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:42:13,842 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:42:13,843 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:43:26,637 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:43:26,640 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:43:26,641 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:43:26,642 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:46:55,349 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:46:55,349 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:46:55,352 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:46:55,352 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:49:09,643 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:49:09,644 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:49:09,647 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:49:09,648 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:49:27,667 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:49:27,669 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:49:27,671 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:49:27,672 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:51:59,135 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:51:59,137 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:51:59,138 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:51:59,139 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:52:15,333 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:52:15,334 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:52:15,335 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:52:15,336 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:52:52,899 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:52:52,901 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:52:52,902 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:52:52,903 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:54:58,261 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:54:58,264 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:54:58,266 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:54:58,267 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:55:18,832 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:55:18,835 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:55:18,836 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:55:18,837 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:56:17,236 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:56:17,238 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 21:56:17,239 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:56:17,240 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:26,099 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:26,100 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:26,101 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:26,102 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:48,360 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:48,361 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:48,362 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:48,363 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:58,047 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:58,048 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:58:58,049 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:58:58,051 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:59:10,321 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:59:10,322 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 21:59:10,324 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 21:59:10,325 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:01:24,094 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:01:24,095 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:01:24,095 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:01:24,097 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:03:47,978 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:03:47,979 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:03:47,980 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:03:47,981 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:04:00,778 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:04:00,779 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:04:00,779 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:04:00,780 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:04:49,194 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:04:49,195 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:04:49,196 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:04:49,196 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:05:42,300 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:05:42,302 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:05:42,303 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:05:42,304 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:16:09,273 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:16:09,274 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:16:09,275 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:16:09,276 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:22,030 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 22:17:22,206 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8.pom
+2023-10-23 22:17:22,233 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8.pom
+2023-10-23 22:17:22,243 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-parent/3.0.8/tiles-parent-3.0.8.pom
+2023-10-23 22:17:22,278 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-parent/3.0.8/tiles-parent-3.0.8.pom
+2023-10-23 22:17:22,301 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-master/6/tiles-master-6.pom
+2023-10-23 22:17:22,451 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-master/6/tiles-master-6.pom
+2023-10-23 22:17:22,463 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8.pom
+2023-10-23 22:17:22,487 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8.pom
+2023-10-23 22:17:22,498 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8.pom
+2023-10-23 22:17:22,522 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8.pom
+2023-10-23 22:17:22,530 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2023-10-23 22:17:22,556 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2023-10-23 22:17:22,564 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2023-10-23 22:17:22,587 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2023-10-23 22:17:22,596 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7.pom
+2023-10-23 22:17:22,617 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7.pom
+2023-10-23 22:17:22,626 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request/1.0.7/tiles-request-1.0.7.pom
+2023-10-23 22:17:22,649 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request/1.0.7/tiles-request-1.0.7.pom
+2023-10-23 22:17:22,660 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0.pom
+2023-10-23 22:17:22,688 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0.pom
+2023-10-23 22:17:22,699 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.pom
+2023-10-23 22:17:22,722 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.pom
+2023-10-23 22:17:22,730 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.pom
+2023-10-23 22:17:22,752 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.6/jcl-over-slf4j-1.7.6.pom
+2023-10-23 22:17:22,762 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7.pom
+2023-10-23 22:17:22,792 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7.pom
+2023-10-23 22:17:22,802 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7.pom
+2023-10-23 22:17:22,824 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7.pom
+2023-10-23 22:17:22,831 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2023-10-23 22:17:22,856 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.8/slf4j-api-1.5.8.pom
+2023-10-23 22:17:22,863 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2023-10-23 22:17:22,887 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.8/slf4j-parent-1.5.8.pom
+2023-10-23 22:17:22,896 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE.pom
+2023-10-23 22:17:22,922 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE.pom
+2023-10-23 22:17:22,931 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.0.RELEASE/spring-context-3.2.0.RELEASE.pom
+2023-10-23 22:17:22,960 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.0.RELEASE/spring-context-3.2.0.RELEASE.pom
+2023-10-23 22:17:22,977 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.0.RELEASE/spring-core-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,001 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.0.RELEASE/spring-core-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,008 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,029 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,037 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.0.RELEASE/spring-beans-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,066 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.0.RELEASE/spring-beans-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,073 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.0.RELEASE/spring-expression-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,096 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.0.RELEASE/spring-expression-3.2.0.RELEASE.pom
+2023-10-23 22:17:23,105 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7.pom
+2023-10-23 22:17:23,126 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7.pom
+2023-10-23 22:17:23,136 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4.pom
+2023-10-23 22:17:23,158 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4.pom
+2023-10-23 22:17:23,166 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/mustache.java/0.8.4/mustache.java-0.8.4.pom
+2023-10-23 22:17:23,187 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/mustache.java/0.8.4/mustache.java-0.8.4.pom
+2023-10-23 22:17:23,197 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0/guava-12.0.pom
+2023-10-23 22:17:23,216 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0/guava-12.0.pom
+2023-10-23 22:17:23,224 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/12.0/guava-parent-12.0.pom
+2023-10-23 22:17:23,246 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/12.0/guava-parent-12.0.pom
+2023-10-23 22:17:23,253 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2023-10-23 22:17:23,278 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2023-10-23 22:17:23,285 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2023-10-23 22:17:23,304 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2023-10-23 22:17:23,314 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8.pom
+2023-10-23 22:17:23,336 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8.pom
+2023-10-23 22:17:23,349 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8.pom
+2023-10-23 22:17:23,371 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8.pom
+2023-10-23 22:17:23,380 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8.pom
+2023-10-23 22:17:23,403 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8.pom
+2023-10-23 22:17:23,413 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2.pom
+2023-10-23 22:17:23,437 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2.pom
+2023-10-23 22:17:23,445 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag/1.2/tiles-autotag-1.2.pom
+2023-10-23 22:17:23,466 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag/1.2/tiles-autotag-1.2.pom
+2023-10-23 22:17:23,476 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7.pom
+2023-10-23 22:17:23,497 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7.pom
+2023-10-23 22:17:23,506 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8.pom
+2023-10-23 22:17:23,528 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8.pom
+2023-10-23 22:17:23,549 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7.pom
+2023-10-23 22:17:23,575 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7.pom
+2023-10-23 22:17:23,584 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.pom
+2023-10-23 22:17:23,606 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.pom
+2023-10-23 22:17:23,613 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8.pom
+2023-10-23 22:17:23,634 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8.pom
+2023-10-23 22:17:23,645 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.pom
+2023-10-23 22:17:23,668 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.pom
+2023-10-23 22:17:23,676 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2023-10-23 22:17:23,697 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.pom
+2023-10-23 22:17:23,722 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.pom
+2023-10-23 22:17:23,745 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.pom
+2023-10-23 22:17:23,753 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.pom
+2023-10-23 22:17:23,776 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.pom
+2023-10-23 22:17:23,782 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2023-10-23 22:17:23,805 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2023-10-23 22:17:23,812 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2023-10-23 22:17:23,836 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/9/commons-parent-9.pom
+2023-10-23 22:17:23,844 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+2023-10-23 22:17:23,889 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
+2023-10-23 22:17:23,898 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7.pom
+2023-10-23 22:17:23,921 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7.pom
+2023-10-23 22:17:23,930 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8.pom
+2023-10-23 22:17:23,953 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8.pom
+2023-10-23 22:17:23,964 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8.pom
+2023-10-23 22:17:23,984 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8.pom
+2023-10-23 22:17:23,993 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11.pom
+2023-10-23 22:17:24,019 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11.pom
+2023-10-23 22:17:24,028 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8.pom
+2023-10-23 22:17:24,056 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8.pom
+2023-10-23 22:17:24,063 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3.pom
+2023-10-23 22:17:24,083 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3.pom
+2023-10-23 22:17:24,093 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga.pom
+2023-10-23 22:17:24,117 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga.pom
+2023-10-23 22:17:24,126 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8.pom
+2023-10-23 22:17:24,149 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8.pom
+2023-10-23 22:17:24,157 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.pom
+2023-10-23 22:17:24,183 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.pom
+2023-10-23 22:17:24,192 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
+2023-10-23 22:17:24,219 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/12.0.1/guava-parent-12.0.1.pom
+2023-10-23 22:17:24,224 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:24,241 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8.jar
+2023-10-23 22:17:24,250 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8.jar
+2023-10-23 22:17:24,253 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0.jar
+2023-10-23 22:17:24,253 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8.jar
+2023-10-23 22:17:24,253 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar
+2023-10-23 22:17:24,304 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8.jar
+2023-10-23 22:17:24,311 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar
+2023-10-23 22:17:24,313 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7.jar
+2023-10-23 22:17:24,317 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0.jar
+2023-10-23 22:17:24,319 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7.jar
+2023-10-23 22:17:24,323 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7.jar
+2023-10-23 22:17:24,351 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7.jar
+2023-10-23 22:17:24,357 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4.jar
+2023-10-23 22:17:24,398 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4.jar
+2023-10-23 22:17:24,398 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7.jar
+2023-10-23 22:17:24,403 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8.jar
+2023-10-23 22:17:24,406 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7.jar
+2023-10-23 22:17:24,410 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8.jar
+2023-10-23 22:17:24,410 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7.jar
+2023-10-23 22:17:24,414 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8.jar
+2023-10-23 22:17:24,420 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar
+2023-10-23 22:17:24,471 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8.jar
+2023-10-23 22:17:24,474 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar
+2023-10-23 22:17:24,499 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar
+2023-10-23 22:17:24,504 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2023-10-23 22:17:24,534 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar
+2023-10-23 22:17:24,541 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.jar
+2023-10-23 22:17:24,546 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
+2023-10-23 22:17:24,553 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
+2023-10-23 22:17:24,557 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8.jar
+2023-10-23 22:17:24,578 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+2023-10-23 22:17:24,585 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8.jar
+2023-10-23 22:17:24,596 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7.jar
+2023-10-23 22:17:24,604 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7.jar
+2023-10-23 22:17:24,612 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2.jar
+2023-10-23 22:17:24,613 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8.jar
+2023-10-23 22:17:24,615 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
+2023-10-23 22:17:24,617 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8.jar
+2023-10-23 22:17:24,625 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11.jar
+2023-10-23 22:17:24,662 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8.jar
+2023-10-23 22:17:24,667 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8.jar
+2023-10-23 22:17:24,685 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11.jar
+2023-10-23 22:17:24,691 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3.jar
+2023-10-23 22:17:24,721 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7.jar
+2023-10-23 22:17:24,730 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga.jar
+2023-10-23 22:17:24,732 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3.jar
+2023-10-23 22:17:24,737 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8.jar
+2023-10-23 22:17:24,756 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8.jar
+2023-10-23 22:17:24,759 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.jar
+2023-10-23 22:17:24,814 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8.jar
+2023-10-23 22:17:24,843 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga.jar
+2023-10-23 22:17:24,846 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2023-10-23 22:17:24,848 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8.jar
+2023-10-23 22:17:24,856 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8.jar
+2023-10-23 22:17:24,861 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7.jar
+2023-10-23 22:17:24,878 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1.jar
+2023-10-23 22:17:24,883 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8.jar
+2023-10-23 22:17:24,906 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8.jar
+2023-10-23 22:17:24,910 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8.jar
+2023-10-23 22:17:24,992 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8.jar
+2023-10-23 22:17:24,999 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2.jar
+2023-10-23 22:17:25,000 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7.jar
+2023-10-23 22:17:25,007 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7.jar
+2023-10-23 22:17:25,077 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8.jar
+2023-10-23 22:17:25,085 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8.jar
+2023-10-23 22:17:25,092 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2.jar
+2023-10-23 22:17:25,119 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7.jar
+2023-10-23 22:17:25,378 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2023-10-23 22:17:29,542 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:29,569 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:29,839 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:29,841 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:29,843 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:29,844 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:29,846 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 22:17:29,847 [Worker-59: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 22:17:29,856 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:30,276 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-10-23 22:17:30,463 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.coding404:myweb:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\course\spring\workspace\SpringMyweb\pom.xml.
+2023-10-23 22:17:30,576 [Worker-60: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:30,612 [Worker-60: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:30,824 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/main/java
+2023-10-23 22:17:30,824 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/main/resources
+2023-10-23 22:17:30,825 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMyweb/src/test/java
+2023-10-23 22:17:30,825 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringMyweb/src/test/resources
+2023-10-23 22:17:30,917 [Worker-55: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33
+2023-10-23 22:17:30,995 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8-sources.jar
+2023-10-23 22:17:31,176 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-extras/3.0.8/tiles-extras-3.0.8-sources.jar
+2023-10-23 22:17:31,249 [Worker-60: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMyweb
+2023-10-23 22:17:31,258 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-10-23 22:17:31,476 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-extras:3.0.8
+2023-10-23 22:17:31,508 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8-sources.jar
+2023-10-23 22:17:31,544 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-core/3.0.8/tiles-core-3.0.8-sources.jar
+2023-10-23 22:17:31,593 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-core:3.0.8
+2023-10-23 22:17:31,620 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8-sources.jar
+2023-10-23 22:17:31,935 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:31,937 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 22:17:31,946 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:31,948 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-10-23 22:17:31,951 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMyweb
+2023-10-23 22:17:31,951 [Worker-65: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMyweb
+2023-10-23 22:17:31,958 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:32,021 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-api/3.0.8/tiles-api-3.0.8-sources.jar
+2023-10-23 22:17:32,243 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-api:3.0.8
+2023-10-23 22:17:32,284 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0-sources.jar
+2023-10-23 22:17:32,331 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0-sources.jar
+2023-10-23 22:17:32,388 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-digester:commons-digester:2.0
+2023-10-23 22:17:32,423 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0-sources.jar
+2023-10-23 22:17:32,484 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0-sources.jar
+2023-10-23 22:17:32,557 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-beanutils:commons-beanutils:1.8.0
+2023-10-23 22:17:32,592 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7-sources.jar
+2023-10-23 22:17:32,669 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet-wildcard/1.0.7/tiles-request-servlet-wildcard-1.0.7-sources.jar
+2023-10-23 22:17:32,807 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet-wildcard:1.0.7
+2023-10-23 22:17:32,842 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7-sources.jar
+2023-10-23 22:17:32,926 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-mustache/1.0.7/tiles-request-mustache-1.0.7-sources.jar
+2023-10-23 22:17:33,163 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-mustache:1.0.7
+2023-10-23 22:17:33,219 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7-sources.jar
+2023-10-23 22:17:33,259 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-api/1.0.7/tiles-request-api-1.0.7-sources.jar
+2023-10-23 22:17:33,323 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-api:1.0.7
+2023-10-23 22:17:33,359 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4-sources.jar
+2023-10-23 22:17:33,788 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/spullara/mustache/java/compiler/0.8.4/compiler-0.8.4-sources.jar
+2023-10-23 22:17:34,155 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.spullara.mustache.java:compiler:0.8.4
+2023-10-23 22:17:34,181 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8-sources.jar
+2023-10-23 22:17:34,381 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-freemarker/3.0.8/tiles-freemarker-3.0.8-sources.jar
+2023-10-23 22:17:34,507 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-freemarker:3.0.8
+2023-10-23 22:17:34,535 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7-sources.jar
+2023-10-23 22:17:34,814 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-freemarker/1.0.7/tiles-request-freemarker-1.0.7-sources.jar
+2023-10-23 22:17:35,055 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-freemarker:1.0.7
+2023-10-23 22:17:35,103 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15-sources.jar
+2023-10-23 22:17:35,188 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/freemarker/freemarker/2.3.15/freemarker-2.3.15-sources.jar
+2023-10-23 22:17:35,243 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.freemarker:freemarker:2.3.15
+2023-10-23 22:17:35,280 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8-sources.jar
+2023-10-23 22:17:35,497 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-velocity/3.0.8/tiles-velocity-3.0.8-sources.jar
+2023-10-23 22:17:35,698 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-velocity:3.0.8
+2023-10-23 22:17:35,731 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0-sources.jar
+2023-10-23 22:17:35,735 [Worker-55: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.velocity:velocity-tools:2.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.velocity:velocity-tools:jar:sources:2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-23 22:17:35,775 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2-sources.jar
+2023-10-23 22:17:35,838 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2-sources.jar
+2023-10-23 22:17:35,889 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-collections:commons-collections:3.2
+2023-10-23 22:17:35,934 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8-sources.jar
+2023-10-23 22:17:35,995 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/oro/oro/2.0.8/oro-2.0.8-sources.jar
+2023-10-23 22:17:36,053 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for oro:oro:2.0.8
+2023-10-23 22:17:36,235 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:36,235 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:36,236 [Worker-59: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:36,237 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:36,333 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2-sources.jar
+2023-10-23 22:17:36,335 [Worker-55: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.apache.velocity:velocity:1.6.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.velocity:velocity:jar:sources:1.6.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-23 22:17:36,376 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4-sources.jar
+2023-10-23 22:17:36,431 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4-sources.jar
+2023-10-23 22:17:36,538 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-lang:commons-lang:2.4
+2023-10-23 22:17:36,569 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7-sources.jar
+2023-10-23 22:17:36,732 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-velocity/1.0.7/tiles-request-velocity-1.0.7-sources.jar
+2023-10-23 22:17:36,878 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-velocity:1.0.7
+2023-10-23 22:17:36,916 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8-sources.jar
+2023-10-23 22:17:37,089 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-el/3.0.8/tiles-el-3.0.8-sources.jar
+2023-10-23 22:17:37,191 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-el:3.0.8
+2023-10-23 22:17:37,226 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8-sources.jar
+2023-10-23 22:17:37,319 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-mvel/3.0.8/tiles-mvel-3.0.8-sources.jar
+2023-10-23 22:17:37,414 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-mvel:3.0.8
+2023-10-23 22:17:37,445 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11-sources.jar
+2023-10-23 22:17:37,499 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mvel/mvel2/2.0.11/mvel2-2.0.11-sources.jar
+2023-10-23 22:17:37,543 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mvel:mvel2:2.0.11
+2023-10-23 22:17:37,572 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8-sources.jar
+2023-10-23 22:17:37,686 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-ognl/3.0.8/tiles-ognl-3.0.8-sources.jar
+2023-10-23 22:17:37,788 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-ognl:3.0.8
+2023-10-23 22:17:37,823 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3-sources.jar
+2023-10-23 22:17:37,865 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/2.7.3/ognl-2.7.3-sources.jar
+2023-10-23 22:17:37,909 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for ognl:ognl:2.7.3
+2023-10-23 22:17:37,936 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga-sources.jar
+2023-10-23 22:17:37,983 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jboss/javassist/3.7.ga/javassist-3.7.ga-sources.jar
+2023-10-23 22:17:38,036 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jboss:javassist:3.7.ga
+2023-10-23 22:17:38,061 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8-sources.jar
+2023-10-23 22:17:38,249 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-compat/3.0.8/tiles-compat-3.0.8-sources.jar
+2023-10-23 22:17:38,403 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-compat:3.0.8
+2023-10-23 22:17:38,442 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1-sources.jar
+2023-10-23 22:17:38,536 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/12.0.1/guava-12.0.1-sources.jar
+2023-10-23 22:17:38,627 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:12.0.1
+2023-10-23 22:17:38,685 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-sources.jar
+2023-10-23 22:17:38,688 [Worker-55: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:sources:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-23 22:17:38,720 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8-sources.jar
+2023-10-23 22:17:38,887 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-servlet/3.0.8/tiles-servlet-3.0.8-sources.jar
+2023-10-23 22:17:39,027 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-servlet:3.0.8
+2023-10-23 22:17:39,059 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7-sources.jar
+2023-10-23 22:17:39,251 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-servlet/1.0.7/tiles-request-servlet-1.0.7-sources.jar
+2023-10-23 22:17:39,384 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-servlet:1.0.7
+2023-10-23 22:17:39,421 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8-sources.jar
+2023-10-23 22:17:39,618 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-jsp/3.0.8/tiles-jsp-3.0.8-sources.jar
+2023-10-23 22:17:39,771 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-jsp:3.0.8
+2023-10-23 22:17:39,831 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8-sources.jar
+2023-10-23 22:17:40,031 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-template/3.0.8/tiles-template-3.0.8-sources.jar
+2023-10-23 22:17:40,175 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-template:3.0.8
+2023-10-23 22:17:40,209 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2-sources.jar
+2023-10-23 22:17:40,311 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-autotag-core-runtime/1.2/tiles-autotag-core-runtime-1.2-sources.jar
+2023-10-23 22:17:40,407 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-autotag-core-runtime:1.2
+2023-10-23 22:17:40,437 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7-sources.jar
+2023-10-23 22:17:40,591 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tiles/tiles-request-jsp/1.0.7/tiles-request-jsp-1.0.7-sources.jar
+2023-10-23 22:17:40,697 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tiles:tiles-request-jsp:1.0.7
+2023-10-23 22:17:40,733 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0-javadoc.jar
+2023-10-23 22:17:40,813 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0-javadoc.jar
+2023-10-23 22:17:40,859 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.velocity:velocity-tools:2.0
+2023-10-23 22:17:40,888 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2-javadoc.jar
+2023-10-23 22:17:40,993 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.6.2/velocity-1.6.2-javadoc.jar
+2023-10-23 22:17:41,040 [Worker-55: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.apache.velocity:velocity:1.6.2
+2023-10-23 22:17:41,299 [Worker-55: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9-javadoc.jar
+2023-10-23 22:17:41,301 [Worker-55: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.google.code.findbugs:jsr305:1.3.9
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:jsr305:jar:javadoc:1.3.9
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-10-23 22:17:41,540 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:41,541 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:17:41,542 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:17:41,543 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:20:58,266 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:20:58,267 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:20:58,280 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:20:58,281 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:21:20,095 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:21:20,096 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:21:20,096 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:21:20,097 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:23:03,660 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:23:03,662 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:23:03,664 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:23:03,665 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:25:56,733 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:25:56,734 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:25:56,735 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:25:56,736 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:31:36,864 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:31:36,865 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:31:36,865 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:31:36,866 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:31:50,443 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:31:50,443 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:31:50,444 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:31:50,445 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:34:47,068 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:34:47,069 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:34:47,071 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:34:47,072 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:38:57,015 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:38:57,016 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:38:57,018 [Worker-73: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:38:57,018 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:40:43,110 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:40:43,111 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:40:43,112 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:40:43,113 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:41:02,220 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:41:02,221 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:41:02,222 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:41:02,223 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:43:46,314 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:43:46,316 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:43:46,316 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:43:46,317 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:45:17,717 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:45:17,718 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:45:17,719 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:45:17,720 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:45:51,395 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:45:51,396 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:45:51,398 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:45:51,399 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:46:41,311 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:46:41,312 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:46:41,312 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:46:41,313 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:02,230 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:02,232 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:02,233 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:02,234 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:12,702 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:12,703 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:12,704 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:12,704 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:36,677 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:36,679 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:49:36,679 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:49:36,680 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:54:38,201 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:54:38,202 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:54:38,203 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:54:38,204 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:54:57,163 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:54:57,164 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:54:57,165 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:54:57,165 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:55:06,876 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:55:06,877 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:55:06,879 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:55:06,880 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:55:40,730 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:55:40,731 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:55:40,732 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:55:40,732 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:56:49,355 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:56:49,356 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:56:49,356 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:56:49,357 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:59:00,085 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:59:00,086 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 22:59:00,087 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 22:59:00,088 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:00:47,105 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:00:47,106 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:00:47,107 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:00:47,107 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:01:27,557 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:01:27,558 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:01:27,559 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:01:27,560 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:01:59,115 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:01:59,118 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 23:01:59,119 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:01:59,120 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:03:06,048 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:03:06,050 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 23:03:06,051 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:03:06,053 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:05:57,140 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:05:57,142 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2023-10-23 23:05:57,142 [Worker-92: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:05:57,143 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:07:56,846 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:07:56,847 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:07:56,848 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:07:56,849 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:08:41,346 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:08:41,346 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:08:41,348 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:08:41,348 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:09:57,135 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:09:57,136 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:09:57,136 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:09:57,137 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:10:48,197 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:10:48,198 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:10:48,198 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:10:48,199 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:11:44,900 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:11:44,902 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:11:44,903 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:11:44,904 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:13:14,214 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:13:14,215 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:13:14,216 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:13:14,217 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:14:09,566 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:14:09,567 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:14:09,568 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:14:09,568 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:14:44,338 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:14:44,340 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-10-23 23:14:44,341 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-10-23 23:14:44,342 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
